@@ -100,26 +100,13 @@ Client Presentation
 
 # Tech Stack
 
-### AI & LLMs
-
-- OpenAI GPT-5
-- Claude
-
-### Data Sources
-
-- Financial Modeling Prep API
-- Tavily Search API
-
-### Development
-
-- Python
-- Jupyter Notebook
-- Pydantic
-
-### Output Generation
-
-- PowerPoint Generator
-- Gemini (presentation enhancement)
+| Category    | Technologies                    |
+| ----------- | ------------------------------- |
+| AI          | GPT-5, Claude                   |
+| APIs        | Financial Modeling Prep, Tavily |
+| Backend     | Python, Pydantic                |
+| Development | Jupyter Notebook                |
+| Output      | PowerPoint Generator, Gemini    |
 
 ---
 
