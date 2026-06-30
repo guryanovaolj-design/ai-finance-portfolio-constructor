@@ -198,6 +198,10 @@ Required API keys:
 4. Generated PowerPoint presentation
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/facb2038-96f7-4790-8be6-153296b94e0e" />
   <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/6f3446be-ae83-4629-ac50-6f81453be770" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/33a2214b-502f-4d98-b9ec-2109a029422b" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2b1822ed-8119-4b34-8ba2-b8e243eabe0e" />
+
+
 
 
 
