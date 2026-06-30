@@ -1,4 +1,4 @@
-# AI Investment Research System
+# AI Finance Portfolio Constructor
 
 An AI-powered investment research system that provides a reusable infrastructure for financial analysis and future multi-agent workflows.
 
