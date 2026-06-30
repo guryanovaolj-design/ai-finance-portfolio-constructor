@@ -3,8 +3,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-black)
 ![Claude](https://img.shields.io/badge/Claude-Code-orange)
 ![Status](https://img.shields.io/badge/Status-Prototype-success)
-An AI-powered multi-agent system that automates investment research, portfolio construction, and client proposal generation for financial advisors.
 
+An AI-powered multi-agent system that automates investment research, portfolio construction, and client proposal generation for financial advisors.
 Built as a pet project to explore AI workflow design, agent orchestration, LLM-powered financial analysis, and business process automation.
 
 ---
